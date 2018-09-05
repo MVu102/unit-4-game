@@ -1,0 +1,19 @@
+img{
+    height: 100px;
+}
+p{
+    text-align: center ;
+}
+h1{
+    text-align: center;
+    color:#343637;
+}
+
+h2{
+    text-align: center;
+}
+
+.container{
+    text-align: center;
+    border: double;
+}
